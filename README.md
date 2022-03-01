@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davefife
 - 👀 I’m interested in drawing and art
-- 🌱 I’m currently learning ... improving at algorithms java react python
+- 🌱 I’m currently learning ... improving at algorithms, java, react and python
 - 💞️ I’m looking to collaborate on ... anything that can help me be more useful
 - 📫 How to reach me ... www.davefife.com
 
