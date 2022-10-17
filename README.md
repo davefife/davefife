@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davefife
 - 👀 I’m interested in drawing and art.
-- 🌱 I’m currently learning algortihms.
+- 🌱 I’m currently learning algorithms.
 - 💞️ I’m looking to get better at developing, so I can help in large codebases.
 - 📫 How to reach me ... www.davefife.com .
 
